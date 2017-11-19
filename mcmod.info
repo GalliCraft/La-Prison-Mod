@@ -1,0 +1,19 @@
+[
+{
+  "modid": "LaPrison",
+  "name": "LaPrison",
+  "description": "",
+  "version": "0.3.2",
+  "credits": "Created by mod maker MCreator and EvanG",
+  "logoFile": "/logo.png",
+  "mcversion": "1.10.2",
+  "url": "https://mcreator.pylo.co/",
+  "updateUrl": "",
+  "authors": [ "EvanG" , "MCreator" ],
+  "parent": "",
+  "screenshots": [],
+  "dependencies": [
+     "mod_MinecraftForge"
+  ]
+}
+]

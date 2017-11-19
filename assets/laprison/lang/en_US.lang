@@ -1,0 +1,16 @@
+#Lang file was made using MCreator
+#Thu Aug 10 08:55:58 CEST 2017
+key.mcreator.grimper=Grimper
+entity.LaPrison.voleurX.name=Prisonnier X4
+item.Casque_Du_Prisonnier.name=Prisonnier Helmet
+entity.LaPrison.chefPolicier.name=Chef De Police
+entity.LaPrison.policier2.name=Policier X1
+entity.LaPrison.policier.name=Prisonnier X1
+itemGroup.tabtab=La Prison
+entity.LaPrison.voleur.name=Prisonnier X2
+entity.LaPrison.policierX2.name=Policier X2
+entity.LaPrison.prisonnie.name=Prisonnier X5
+item.Pantalon_Du_Prisonnier.name=Prisonnier Leggings
+item.Bottes_Du_Prisonnier.name=Prisonnier Boots
+item.0.name=Prisonnier Body
+item.SuperMystrone.name=Super Mystrone
